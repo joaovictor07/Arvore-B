@@ -5,7 +5,7 @@
 #define linhas 4
 /*
 Sete a variável grauminimo na linha 15 com o grau mínimo que deseja
-Nome do arquivo de entrada 
+Nome do arquivo de entrada deve ser arqEntrada.dat e estar na pasta
 */
 typedef struct {
 	int numChaves;
